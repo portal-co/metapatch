@@ -1,0 +1,9 @@
+[package]
+name = "portal-solutions-metapatch-core"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = { version = "1.0.98", default-features = false }
+rand = { version = "0.9.1", default-features = false, features = ["alloc"] }
+waffle = { workspace = true, features = ["copying", "hooking"] }
