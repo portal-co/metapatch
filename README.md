@@ -1,13 +1,14 @@
 # metapatch
 
 ## Description
-Project metapatch
+Core utilities for patching or metaprogramming, using `waffle` components.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Provide patching mechanisms
+- [ ] Integrate with `waffle`
 
 ## Progress
-- [ ] Initial setup
+- [ ] Workspace setup
 
 ---
 *AI assisted*
